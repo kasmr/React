@@ -2,7 +2,7 @@
 
 /* Global Styles */
 :root {
-  --primary-color: #2d2c41;
+  --primary-color: #176415;
   --dark-color: #333333;
   --light-color: #f4f4f4;
   --danger-color: #dc3545;
@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #666;
+  color: #fff;
 }
 
 ul {
@@ -295,7 +295,7 @@ img {
 }
 
 .btn:hover {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .bg-light,
