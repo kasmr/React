@@ -24,12 +24,12 @@ body {
 }
 
 a {
-  color: var(--primary-color);
+  color: var(--dark-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: #fff;
+  color: rgb(128, 128, 128);
 }
 
 ul {
@@ -111,6 +111,12 @@ img {
 
 /* Cards */
 .card {
+  padding: 1rem;
+  border: #ccc 1px groove;
+  margin: 0.7rem 0;
+}
+
+.card-2 {
   padding: 1rem;
   border: #ccc 1px dotted;
   margin: 0.7rem 0;
